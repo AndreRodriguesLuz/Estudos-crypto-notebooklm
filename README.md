@@ -1,4 +1,4 @@
-# 📘 Caderno Temático Inteligente: Fundamentos, Arquitetura e o Impacto Global das Criptomoedas
+Neste projeto, decidi unir duas das minhas grandes paixões: a volatilidade fascinante do mercado financeiro de criptoativos e o poder da Inteligência Artificial.
 
 ## 🎯 Contexto e Objetivos
 Este repositório foi desenvolvido como parte do desafio de projeto da DIO, utilizando o Google NotebookLM para criar um ambiente de aprendizagem ativa. O objetivo deste caderno de estudos é consolidar o entendimento sobre a tecnologia blockchain, analisar os conceitos fundamentais dos principais criptoativos e explorar os impactos socioeconômicos e financeiros que as criptomoedas geram no cenário global atual.
